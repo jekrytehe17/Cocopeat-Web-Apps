@@ -15,7 +15,7 @@ nav a{margin:5px 10px;text-decoration:none;color:#333;font-size:14px}
 .secondary{border:1px solid #333;background:transparent}
 .hero-img img{width:100%;max-width:400px;border-radius:20px}
 
-.story{display:flex;flex-wrap:wrap;padding:40px 20px;background:#e6efc2;gap:20px}
+.story{display:flex;flex-wrap:wrap;padding:40px 20px;background:#beccef;gap:20px}
 .story img{width:100%;max-width:400px;border-radius:20px}
 .story-text{flex:1;min-width:280px}
 
